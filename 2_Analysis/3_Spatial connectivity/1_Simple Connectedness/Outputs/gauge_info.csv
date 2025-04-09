@@ -1,0 +1,219 @@
+GaugeID,Unnamed: 0,Station,Latitude,Longitude,River Name/ Tributory/ SubTributory,Basin,State,Start_date,End_date,Streamflow_Entries,Privacy,Expected_entries,missing_percent,Period_length
+IWM-gauge-17,16,Chennur,14.5722,78.8,Pennar,Pennar,Andhra Pradesh,1989-07-13,2019-02-06,10689,Open,10801.0,1.0369410239792654,29.59178082191781
+IWM-gauge-27,26,Tadipatri,14.9222,78.0028,Pennar,Pennar,Andhra Pradesh,1971-12-12,2017-10-25,16287,Open,16755.0,2.7931960608773454,45.9041095890411
+IWM-gauge-29,28,Mantralayam,15.9483,77.4264,Krishna/Tungabha dra,Krishna,Andhra Pradesh,1972-01-06,2019-02-02,16955,Open,17195.0,1.395754579819719,47.10958904109589
+IWM-gauge-32,31,Bawapuram,15.8833,77.9572,Krishna/ Tungabhadra,Krishna,Andhra Pradesh,1965-06-01,2019-02-03,19554,Open,19606.0,0.2652249311435262,53.71506849315068
+IWM-gauge-36,35,Koida,17.4825,81.3867,Godavari,Godavari,Andhra Pradesh,1977-06-01,2006-06-09,10601,Open,10601.0,0.0,29.043835616438358
+IWM-gauge-40,39,Naidupet,13.9472,79.8972,Swarnamukhi,East Flowing Rivers between Pennar and Kanyakumari,Andhra Pradesh,1978-12-01,2018-03-10,13854,Open,14345.0,3.4227953990937587,39.3013698630137
+IWM-gauge-54,53,Keesara,16.7156,80.3164,Krishna/Munneru,Krishna,Andhra Pradesh,1965-01-01,2019-03-20,19760,Open,19802.0,0.2120997879002106,54.25205479452055
+IWM-gauge-57,56,Alladupalli,14.7172,78.6686,Pennar/Kunderu,Pennar,Andhra Pradesh,1985-08-21,2019-02-17,12207,Open,12234.0,0.2206964198136374,33.51780821917808
+IWM-gauge-60,59,Wadenepally,16.7942,80.0692,Krishna,Krishna,Andhra Pradesh,1965-12-01,2019-03-20,19433,Open,19468.0,0.1797822066981758,53.33698630136986
+IWM-gauge-68,67,Polavaram,17.2519,81.6564,Godavari,Godavari,Andhra Pradesh,1965-12-01,2019-03-08,19227,Open,19456.0,1.177014802631582,53.3041095890411
+IWM-gauge-108,107,Kokrajhar,26.39636,90.25444,Gaurang,Brahamaputra,Assam,1997-01-06,2021-05-31,8733,Restricted,8912.0,2.00852782764811,24.416438356164385
+IWM-gauge-109,108,Pancharatna,26.1999,90.57401,Brahmaputra,Brahamaputra,Assam,1990-01-06,2020-05-31,10789,Restricted,11104.0,2.836815561959649,30.421917808219177
+IWM-gauge-110,109,Pandu,26.17064,91.66963,Brahmaputra,Brahamaputra,Assam,1999-06-01,2021-05-31,8036,Restricted,8036.0,0.0,22.016438356164382
+IWM-gauge-113,112,Baltara,25.5006,86.75,Ganga/Kosi,Ganga - Brahmaputra - Meghna/Barak,Bihar,1970-01-01,2010-12-31,14852,Restricted,14975.0,0.821368948247081,41.02739726027397
+IWM-gauge-114,113,Lalbegiyaghat,26.7153,84.9586,Ganga/Burhi Gandak,Ganga - Brahmaputra - Meghna/Barak,Bihar,1974-06-03,2010-12-30,13324,Restricted,13360.0,0.2694610778443129,36.602739726027394
+IWM-gauge-115,114,Benibad,26.1453,85.6922,Ganga/Kosi/ Bagmati,Ganga - Brahmaputra - Meghna/Barak,Bihar,1985-04-01,2010-12-30,9384,Restricted,9405.0,0.2232854864433808,25.767123287671232
+IWM-gauge-116,115,Ekmighat,26.1167,85.8589,Ganga/Kosi/ Bagmati/Adhwara,Ganga - Brahmaputra - Meghna/Barak,Bihar,1985-04-01,2010-12-30,9312,Restricted,9405.0,0.988835725677828,25.767123287671232
+IWM-gauge-117,116,Dumariaghat,26.3792,84.7317,Ganga/Gandak,Ganga - Brahmaputra - Meghna/Barak,Bihar,1977-01-01,2010-12-31,12356,Restricted,12418.0,0.4992752456112082,34.02191780821918
+IWM-gauge-119,118,Jhanjharpur,26.2333,86.2594,Ganga/Kosi/ Kamla-Balan,Ganga - Brahmaputra - Meghna/Barak,Bihar,1970-01-01,2010-12-31,14616,Restricted,14975.0,2.3973288814691185,41.02739726027397
+IWM-gauge-120,119,Dhengraghat,25.8478,87.8031,Ganga/Mahananda,Ganga - Brahmaputra - Meghna/Barak,Bihar,1985-04-01,2010-12-31,9375,Restricted,9406.0,0.3295768658303166,25.76986301369863
+IWM-gauge-121,120,DHENG BRIDGE,26.7228,85.3231,Ganga/Kosi/ Bagmati,Ganga - Brahmaputra - Meghna/Barak,Bihar,1970-07-01,2010-12-31,14750,Restricted,14794.0,0.2974178721103171,40.53150684931507
+IWM-gauge-122,121,Sikandarpur,26.1394,85.4,"Ganga/
+Burhi Gandak",Ganga - Brahmaputra - Meghna/Barak,Bihar,1970-01-01,2010-12-31,14885,Restricted,14975.0,0.6010016694490861,41.02739726027397
+IWM-gauge-123,122,Tribeni,27.4417,83.9167,Ganga/Gandak,Ganga - Brahmaputra - Meghna/Barak,Bihar,1970-01-01,2010-12-31,14882,Restricted,14975.0,0.6210350584307189,41.02739726027397
+IWM-gauge-124,123,Hayaghat,26.0333,85.9,Ganga/Kosi/Bagmati,Ganga - Brahmaputra - Meghna/Barak,Bihar,1970-01-01,2010-01-31,14611,Restricted,14641.0,0.2049040366095211,40.11232876712329
+IWM-gauge-125,124,Saulighat,26.4089,85.8597,"Ganga/Kosi/
+Bagmati/Adhwara/ Dhaus",Ganga - Brahmaputra - Meghna/Barak,Bihar,1985-03-22,2010-12-31,9371,Restricted,9416.0,0.4779099405267661,25.797260273972604
+IWM-gauge-130,129,Jagdalpur,19.1081,82.0228,Godavari/ Indravati,Godavari,Chhattisgarh,1965-06-01,2018-10-31,18777,Open,19511.0,3.761980421300804,53.45479452054794
+IWM-gauge-134,133,Konta,17.7989,81.3928,Godavari/Sabari,Godavari,Chhattisgarh,1965-12-01,2019-01-31,18691,Open,19420.0,3.7538619979402665,53.205479452054796
+IWM-gauge-135,134,Baronda,20.9125,81.8861,Mahanadi/Pairi,Mahanadi,Chhattisgarh,1977-12-06,2019-03-07,14734,Open,15067.0,2.210128094511188,41.27945205479452
+IWM-gauge-138,137,Seorinarayan,21.7167,82.5967,Mahanadi,Mahanadi,Chhattisgarh,1985-06-01,2019-03-07,12160,Open,12333.0,1.4027406146112087,33.78904109589041
+IWM-gauge-139,138,Basantpur,21.7267,82.7881,Mahanadi,Mahanadi,Chhattisgarh,1971-05-12,2019-03-07,17437,Open,17467.0,0.171752447472373,47.85479452054795
+IWM-gauge-142,141,Kotni,21.2361,81.2472,Mahanadi/ Seonath,Mahanadi,Chhattisgarh,1978-09-30,2019-03-07,14657,Open,14769.0,0.758345182476805,40.463013698630135
+IWM-gauge-143,142,Ghatora,22.0567,82.2194,Mahanadi/Seonath,Mahanadi,Chhattisgarh,1979-09-17,2019-03-07,14282,Open,14417.0,0.9363945342304224,39.4986301369863
+IWM-gauge-147,146,Bamnidhi,21.8986,82.7117,Mahanadi/Hasdeo,Mahanadi,Chhattisgarh,1971-02-18,2019-03-07,17550,Open,17550.0,0.0,48.082191780821915
+IWM-gauge-149,148,Jondhra,21.7158,82.3472,Mahanadi/ Seonath,Mahanadi,Chhattisgarh,1979-01-07,2019-07-03,14313,Open,14788.0,3.2120638355423337,40.515068493150686
+IWM-gauge-152,151,Pathardihi,21.3411,81.5939,Mahanadi/ Seonath/Kharun,Mahanadi,Chhattisgarh,1989-01-01,2019-03-07,10629,Open,11023.0,3.5743445522997352,30.2
+IWM-gauge-153,152,Manendragarh,23.2036,82.2172,Mahanadi/ Hasdeo,Mahanadi,Chhattisgarh,1989-06-20,2019-03-07,10700,Open,10853.0,1.40974845664793,29.734246575342464
+IWM-gauge-155,154,Andhiyar khore,21.8317,81.6058,Mahanadi/Seonath/Hamp,Mahanadi,Chhattisgarh,1977-11-29,2019-03-07,14946,Open,15074.0,0.8491442218389267,41.298630136986304
+IWM-gauge-158,157,Simga,21.6308,81.6878,Mahanadi/ Seonath,Mahanadi,Chhattisgarh,1971-09-01,2019-03-07,17291,Open,17355.0,0.3687698069720579,47.54794520547945
+IWM-gauge-164,163,delhi rly bridge,28.6625,77.2467,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Delhi,1963-06-06,2011-12-31,17740,Restricted,17741.0,0.0056366608421121,48.605479452054794
+IWM-gauge-196,195,Garudeshwar,21.885,73.6544,Narmada,Narmada,Gujarat,1972-03-22,2018-09-07,16875,Open,16971.0,0.5656708502739916,46.49589041095891
+IWM-gauge-198,197,Motinaroli,21.4044,72.9625,Kim (Indepent River),Tapi,Gujarat,1990-10-17,2018-12-26,10074,Open,10298.0,2.175179646533309,28.213698630136985
+IWM-gauge-281,280,Mahuwa,21.0158,73.1356,Purna,West flowing rivers from  Tapi to Tadri,Gujarat,1970-12-01,2018-12-29,17070,Open,17561.0,2.795968338932864,48.11232876712329
+IWM-gauge-301,300,mohana,28.2242,77.4569,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Haryana,1983-06-01,2012-02-29,10501,Restricted,10501.0,0.0,28.76986301369863
+IWM-gauge-302,301,yaswant nagar,30.8867,77.2061,Ganga/Yamuna/Giri,Ganga - Brahmaputra - Meghna/Barak,Himachal Pradesh,1976-06-01,2012-01-31,13020,Restricted,13028.0,0.0614062020264039,35.69315068493151
+IWM-gauge-303,302,paonta,30.4253,77.5919,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Himachal Pradesh,1978-10-16,2012-02-29,12164,Restricted,12190.0,0.2132895816242874,33.397260273972606
+IWM-gauge-305,304,Muri,23.3774,85.8748,Subarnarekha,Subarnarekha,Jharkhand,1989-11-01,2019-02-28,10703,Open,10712.0,0.0840179238237537,29.34794520547945
+IWM-gauge-308,307,Jamshedpur,22.8156,86.2161,Subarnarekha,Subarnarekha,Jharkhand,1972-02-01,2019-01-31,16594,Open,17167.0,3.3377992660336697,47.032876712328765
+IWM-gauge-309,308,Ghatsila,22.5806,86.4683,Subarnarekha,Subarnarekha,Jharkhand,1971-03-16,2019-01-31,16916,Open,17489.0,3.2763451312253444,47.915068493150685
+IWM-gauge-315,314,Adityapur,22.7914,86.1736,Subarnarekha/ Kharkai,Subarnarekha,Jharkhand,1971-11-22,2019-01-31,17202,Open,17238.0,0.2088409328228291,47.227397260273975
+IWM-gauge-317,316,Jarikela,22.3217,85.1047,Brahmani/ Koel, Brahmni - Baitarni,Jharkhand,1972-08-01,2019-01-31,16985,Open,16985.0,0.0,46.534246575342465
+IWM-gauge-318,317,Haladi,13.5811,74.8536,Haladi,West flowing rivers from Tadri to Kanyakumari,Karnataka,1985-12-30,2019-02-03,12086,Open,12089.0,0.024815948382828,33.12054794520548
+IWM-gauge-320,319,Shirdhon,17.3686,75.5942,Krishna/Bhima/ Borinala/ Doddanala,Krishna,Karnataka,1979-07-26,2006-11-16,10179,Open,9976.0,-2.034883720930236,27.33150684931507
+IWM-gauge-323,322,Oollenur,15.4917,76.7169,Krishna/Tungabha dra,Krishna,Karnataka,1972-07-10,2003-03-22,11213,Open,11213.0,0.0,30.720547945205478
+IWM-gauge-324,323,Shimoga,13.9269,75.585,Krishna/Tungabhadra,Krishna,Karnataka,1972-01-22,2018-05-19,16402,Open,16920.0,3.0614657210401908,46.35616438356164
+IWM-gauge-326,325,Kudige,12.5025,75.9611,Cauvery,Cauvery,Karnataka,1973-11-01,2019-01-18,16461,Open,16515.0,0.3269754768392419,45.24657534246575
+IWM-gauge-345,344,Kokangaon,17.2864,75.6372,Krishna/ Bhima/Borinala,Krishna,Karnataka,1979-07-25,2007-06-07,10120,Open,10180.0,0.5893909626719096,27.89041095890411
+IWM-gauge-349,348,Santeguli,14.4344,74.5861,Aghanashini,West flowing rivers from Tadri to Kanyakumari,Karnataka,1988-06-01,2019-03-10,11228,Open,11240.0,0.1067615658362997,30.794520547945204
+IWM-gauge-354,353,M.h. halli,12.8189,76.1333,Cauvery/,Cauvery,Karnataka,1978-10-16,2019-01-29,14416,Open,14716.0,2.038597444957868,40.31780821917808
+IWM-gauge-360,359,Kollegal,12.1892,77.1,Cauvery,Cauvery,Karnataka,1971-02-06,2018-12-25,17239,Open,17490.0,1.435105774728418,47.917808219178085
+IWM-gauge-363,362,Malkhed,17.2031,77.1572,Krishna/Bhima/Ka gna,Krishna,Karnataka,1990-08-15,2019-03-18,10416,Open,10443.0,0.2585463947141653,28.610958904109587
+IWM-gauge-364,363,Bantwal,12.8844,75.0431,Nethravathi,West flowing rivers from Tadri to Kanyakumari,Karnataka,1970-11-01,2018-10-31,17159,Open,17532.0,2.127538215833902,48.032876712328765
+IWM-gauge-369,368,Haralahalli,14.8306,75.6744,Krishna/Tungabhadra,Krishna,Karnataka,1966-12-13,2017-12-12,18678,Open,18628.0,-0.2684131415074064,51.035616438356165
+IWM-gauge-376,375,Huvinhedigi,16.4911,76.9231,Krishna,Krishna,Karnataka,1976-02-01,2019-03-11,15556,Open,15745.0,1.2003810733566267,43.136986301369866
+IWM-gauge-380,379,K.m. vadi,12.3461,76.2878,Cauvery/,Cauvery,Karnataka,1979-06-15,2017-10-28,13925,Open,14016.0,0.64925799086758,38.4
+IWM-gauge-391,390,Yadgir,16.7375,77.1253,Krishna/Bhima,Krishna,Karnataka,1965-06-01,2019-03-11,19626,Open,19642.0,0.0814580999898173,53.81369863013698
+IWM-gauge-394,393,Biligundulu,12.18,77.73,Cauvery,Cauvery,Karnataka,1971-08-30,2019-03-02,17273,Open,17352.0,0.4552789303826632,47.53972602739726
+IWM-gauge-396,395,Yennehole,13.2942,74.9808,Swarna/Yennehole,West flowing rivers from Tadri to Kanyakumari,Karnataka,1989-07-24,2019-02-02,10581,Open,10786.0,1.900611904320415,29.55068493150685
+IWM-gauge-407,406,Erinjipuzha,12.4792,75.1472,Payaswani,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1985-06-25,2019-02-10,12203,Open,12284.0,0.659394334093133,33.654794520547945
+IWM-gauge-410,409,Muthankera,11.8333,76.1225,Cauvery/ Kabini,Cauvery,Kerala,1973-06-01,2019-12-12,16657,Open,16996.0,1.994586961638034,46.56438356164384
+IWM-gauge-411,410,Ramamangalam,9.845,76.4667,Muvattupuzha,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1978-04-25,2019-02-24,14756,Open,14916.0,1.0726736390453184,40.865753424657534
+IWM-gauge-412,411,Kalampur,9.9906,76.6322,Muvattupuzha/,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1986-06-23,2018-12-31,11623,Open,11880.0,2.163299663299667,32.54794520547945
+IWM-gauge-414,413,Karathodu,11.0569,76.0394,Kadalundi,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1986-06-20,2018-09-21,11440,Open,11782.0,2.902732982515699,32.27945205479452
+IWM-gauge-420,419,Neeleeswaram,10.1833,76.5,Periyar,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1971-03-16,2019-02-04,17377,Open,17493.0,0.663122391813864,47.92602739726028
+IWM-gauge-423,422,Ayilam,8.715,76.85,Vamanapuram,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1978-12-01,2019-02-28,14349,Open,14700.0,2.387755102040812,40.273972602739725
+IWM-gauge-425,424,Mankara,10.7611,76.4861,Bharathapuzha,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1985-06-21,2019-02-04,12120,Open,12282.0,1.319003419638498,33.64931506849315
+IWM-gauge-427,426,Kallooppara,9.4036,76.6503,Pampa/Manimala,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1985-06-19,2019-02-28,11998,Open,12308.0,2.518687032824174,33.72054794520548
+IWM-gauge-428,427,Kidangoor,9.6756,76.6056,Meenachil,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1985-07-02,2018-02-01,12114,Open,11903.0,-1.772662354028398,32.61095890410959
+IWM-gauge-429,428,Thumpamon,9.22,76.71,Pamba/Achankovil,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1977-12-21,2019-02-28,14757,Open,15045.0,1.9142572283150527,41.21917808219178
+IWM-gauge-430,429,Arangali,10.2814,76.3153,Periyar/Chalakudy,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1978-04-27,2018-12-29,14627,Open,14857.0,1.5480918085750806,40.704109589041096
+IWM-gauge-431,430,Pulamanthole,10.8992,76.1972,Bharathapuzha/Pulanthodu,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1986-02-17,2019-01-31,11922,Open,12037.0,0.9553875550386336,32.97808219178082
+IWM-gauge-438,437,Malakkara,9.3325,76.6631,Pampa,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1985-06-19,2019-02-28,12042,Open,12308.0,2.161195970100749,33.72054794520548
+IWM-gauge-440,439,Pattazhy,9.0728,76.7611,Kallada,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1978-04-20,2019-02-28,14862,Open,14925.0,0.4221105527638213,40.89041095890411
+IWM-gauge-441,440,Perumannu,11.9814,75.5875,Valapatnam,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1985-06-26,2018-12-31,12144,Open,12242.0,0.8005227903937318,33.53972602739726
+IWM-gauge-446,445,Pudur,10.78,76.575,Bharathapuzha/ Kannadipuzha,West Flowing Rivers From Tadri to Kanyakumari,Kerala,1985-09-02,2019-02-18,12003,Open,12223.0,1.7998854618342497,33.487671232876714
+IWM-gauge-455,454,Handia,22.4917,76.9936,Narmada,Narmada,Madhya Pradesh,1977-04-26,2019-01-31,15231,Open,15256.0,0.163869952805451,41.797260273972604
+IWM-gauge-463,462,Sandia,22.9158,78.3475,Narmada,Narmada,Madhya Pradesh,1978-04-01,2019-03-07,14950,Open,14951.0,0.0066885158183427,40.961643835616435
+IWM-gauge-472,471,Hoshangabad,22.7561,77.7328,Narmada,Narmada,Madhya Pradesh,1972-09-16,2019-02-28,16967,Open,16967.0,0.0,46.484931506849314
+IWM-gauge-473,472,Mohgaon,22.7658,80.6233,Narmada/Burhner,Narmada,Madhya Pradesh,1977-01-13,2019-03-27,15234,Open,15414.0,1.1677695601401306,42.23013698630137
+IWM-gauge-475,474,udi,26.6964,78.9378,"Ganga/Yamuna
+/Chambal",Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1960-01-01,2011-05-31,18778,Restricted,18779.0,0.0053250971830287,51.44931506849315
+IWM-gauge-486,485,Manot,22.7358,80.5131,Narmada,Narmada,Madhya Pradesh,1976-12-16,2019-03-27,15397,Open,15442.0,0.2914130294003336,42.30684931506849
+IWM-gauge-490,489,Rajegaon,21.6256,80.2539,Godavari/Pranhita/ Bagh,Godavari,Madhya Pradesh,1986-06-01,2019-01-19,11628,Open,11921.0,2.4578474960154306,32.66027397260274
+IWM-gauge-491,490,Gadarwara,22.9228,78.7908,Narmada/Sakkar,Narmada,Madhya Pradesh,1977-02-01,2019-01-23,14925,Open,15332.0,2.6545786590138287,42.00547945205479
+IWM-gauge-494,493,Chhidgaon,22.4058,77.3081,Narmada/Ganjal,Narmada,Madhya Pradesh,1976-12-22,2019-03-07,15261,Open,15416.0,1.0054488842760725,42.23561643835617
+IWM-gauge-503,502,Dholpur,26.6656,77.9667,"Ganga/Yamuna
+/Chambal",Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1976-01-16,2011-05-31,12920,Restricted,12920.0,0.0,35.397260273972606
+IWM-gauge-504,503,Garhakota,23.8289,79.1667,Ganga/Yamuna/Ken/Sonar,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1982-09-04,2011-05-31,10497,Restricted,10497.0,0.0,28.75890410958904
+IWM-gauge-505,504,Dindori,22.9478,81.0761,Narmada,Narmada,Madhya Pradesh,1988-06-01,2019-03-27,10920,Open,11257.0,2.993692813360571,30.84109589041096
+IWM-gauge-506,505,Garrauli,24.6411,79.2833,Ganga/Yamuna/Betw/Dhasan,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1982-07-01,2011-05-31,10555,Restricted,10562.0,0.0662753266426841,28.936986301369863
+IWM-gauge-507,506,Madla,24.7333,80.0067,Ganga/Yamuna/Ken,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1981-06-01,2011-05-31,10957,Restricted,10957.0,0.0,30.019178082191782
+IWM-gauge-508,507,Pachauli,25.1789,77.6869,Ganga/Yamuna/Sind,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1976-08-21,2011-05-31,12702,Restricted,12702.0,0.0,34.8
+IWM-gauge-510,509,seondha,26.4175,78.93,Ganga/Yamuna/Sind,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1959-09-01,2011-05-31,18882,Restricted,18901.0,0.1005237818104909,51.78356164383562
+IWM-gauge-511,510,Dhareri,23.1333,75.5147,Ganga/Yamuna/ Chambal,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1976-01-01,2011-05-31,12935,Restricted,12935.0,0.0,35.43835616438356
+IWM-gauge-512,511,Mahidpur,23.4806,75.6364,Ganga/Yamuna/ Chambal/Shipra,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1976-01-01,2011-05-31,12935,Restricted,12935.0,0.0,35.43835616438356
+IWM-gauge-514,513,Patan,23.3111,79.6619,Narmada/Hiran,Narmada,Madhya Pradesh,1979-06-01,2018-12-31,14261,Open,14459.0,1.369389307697633,39.61369863013699
+IWM-gauge-515,514,Bhind,26.6078,78.8567,Ganga/Yamuna/Sind/ Kunwari,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1970-11-18,2011-05-30,14803,Restricted,14804.0,0.0067549310997061,40.558904109589044
+IWM-gauge-516,515,Kumhari,21.8842,80.175,Godavari/Pranhita/ Wainganga,Godavari,Madhya Pradesh,1986-06-01,2019-03-07,11930,Open,11968.0,0.3175133689839571,32.78904109589041
+IWM-gauge-517,516,Mandleshwar,22.1683,75.6608,Narmada,Narmada,Madhya Pradesh,1971-08-28,2019-02-27,17287,Open,17351.0,0.3688548210477815,47.536986301369865
+IWM-gauge-526,525,Barmanghat,23.0308,79.0156,Narmada,Narmada,Madhya Pradesh,1971-11-20,2019-03-07,16711,Open,17275.0,3.2648335745296686,47.32876712328767
+IWM-gauge-527,526,A. B. Road X-ing,24.3658,77.0989,Ganga/Yamuna/ Chambal/Parwati,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1976-01-01,2011-05-31,12935,Restricted,12935.0,0.0,35.43835616438356
+IWM-gauge-530,529,Basoda,23.8872,77.9203,Ganga/Yamuna/Betwa,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1976-06-01,2011-05-31,12783,Restricted,12783.0,0.0,35.02191780821918
+IWM-gauge-532,531,Ujjain.,23.1683,75.7711,Ganga/Yamuna/ Chambal/Shipra,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1976-11-01,2011-05-31,12593,Restricted,12630.0,0.2929532858273909,34.602739726027394
+IWM-gauge-538,537,Ramakona,21.7189,78.8242,Godavari/Pranhita/ Kanhan,Godavari,Madhya Pradesh,1986-11-21,2018-11-01,11592,Open,11669.0,0.6598680263947165,31.96986301369863
+IWM-gauge-542,541,Keolari,22.3819,79.9,Godavari/Pranhita/ Wainganga,Godavari,Madhya Pradesh,1986-11-01,2019-04-04,11738,Open,11843.0,0.8865996791353581,32.446575342465756
+IWM-gauge-549,548,Belkhedi,22.9278,79.3397,Narmada/Sher,Narmada,Madhya Pradesh,1977-03-16,2019-03-07,15285,Open,15332.0,0.3065483955126513,42.00547945205479
+IWM-gauge-551,550,Tal.,23.7233,75.3469,Ganga/Yamuna/ Chambal,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1976-01-01,2011-05-31,12931,Restricted,12935.0,0.0309238500193265,35.43835616438356
+IWM-gauge-552,551,Gaisabad,24.2425,79.8444,"Ganga/Yamuna
+/Ken/Bearma",Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1974-06-01,2011-05-31,13513,Restricted,13514.0,0.0073997336095921,37.02465753424657
+IWM-gauge-556,555,Sarangpur.,23.55,76.4672,Ganga/Yamuna/ Chambal/ Kalisindh,Ganga - Brahmaputra - Meghna/Barak,Madhya Pradesh,1979-06-01,2011-05-31,11650,Restricted,11688.0,0.3251197809719386,32.02191780821918
+IWM-gauge-560,559,Burhanpur,21.2994,76.235,Tapi,Tapi,Madhya Pradesh,1972-09-14,2018-10-07,16249,Open,16825.0,3.423476968796435,46.0958904109589
+IWM-gauge-580,579,Dhalegaon,19.2203,76.3633,Godavari,Godavari,Maharashtra,1965-06-01,2017-08-07,18424,Open,19061.0,3.3419023136246784,52.221917808219175
+IWM-gauge-598,597,Ashti,19.6867,79.7856,Godavari/Pranhita/ Wainganga,Godavari,Maharashtra,1965-06-01,2019-03-07,19578,Open,19638.0,0.3055300947143347,53.8027397260274
+IWM-gauge-603,602,Wadakbal,17.5342,75.885,Krishna/ Bhima/Sina,Krishna,Maharashtra,1965-06-01,2019-02-28,19603,Open,19631.0,0.1426315521369292,53.78356164383562
+IWM-gauge-609,608,Bamni (balharsha),19.81,79.38,Wardha,Godavari,Maharashtra,1965-12-01,2019-03-21,19350,Open,19469.0,0.6112281062201408,53.33972602739726
+IWM-gauge-612,611,Takli,17.4131,75.8478,Krishna/Bhima,Krishna,Maharashtra,1965-06-01,2019-02-28,19619,Open,19631.0,0.0611278080586807,53.78356164383562
+IWM-gauge-628,627,Tekra,18.9783,79.9469,Godavari/Pranhita/ Pranhita,Godavari,Maharashtra,1964-06-01,2019-03-07,19244,Open,20003.0,3.794430835374696,54.8027397260274
+IWM-gauge-640,639,Dhond,18.4739,74.5764,Krishna/Bhima,Krishna,Maharashtra,1967-12-01,2007-06-07,14434,Open,14434.0,0.0,39.54520547945206
+IWM-gauge-642,641,Narsingpur,17.9722,75.1392,Krishna/Bhima,Krishna,Maharashtra,1966-12-01,2019-03-07,19046,Open,19090.0,0.2304871660555263,52.3013698630137
+IWM-gauge-652,651,Koyna dam,17.4,73.75,,Krishna,Maharashtra,1972-10-01,2007-06-07,12668,Open,12668.0,0.0,34.706849315068496
+IWM-gauge-653,652,Nandgaon,20.5344,78.8114,Godavari/Pranhita/ Wunna,Godavari,Maharashtra,1986-06-01,2019-02-27,11743,Open,11960.0,1.8143812709030092,32.76712328767123
+IWM-gauge-654,653,Warunji,17.2722,74.165,Krishna/Koyna,Krishna,Maharashtra,1966-01-01,2019-02-28,19210,Open,19417.0,1.0660761188649115,53.1972602739726
+IWM-gauge-678,677,Kurundwad,16.6836,74.6031,Krishna,Krishna,Maharashtra,1972-05-01,2019-02-28,17105,Open,17105.0,0.0,46.863013698630134
+IWM-gauge-684,683,Karad,17.2944,74.1903,Krishna,Krishna,Maharashtra,1965-06-01,2018-12-30,19544,Open,19571.0,0.1379592253844985,53.61917808219178
+IWM-gauge-686,685,Ghugus,19.9472,79.0892,Godavari/Pranhita/ Wardha,Godavari,Maharashtra,1965-12-01,2005-11-07,14471,Open,14587.0,0.7952286282306154,39.964383561643835
+IWM-gauge-697,696,Champua,22.0658,85.6733,Baitarni, Brahmni - Baitarni,Odisha,1990-07-20,2019-02-28,10409,Open,10451.0,0.4018754186202233,28.632876712328766
+IWM-gauge-699,698,Kantamal,20.65,83.7222,Mahanadi/Tel,Mahanadi,Odisha,1971-09-01,2019-03-07,17212,Open,17355.0,0.8239700374531811,47.54794520547945
+IWM-gauge-707,706,Govindapur (nh5 road bridge),21.55,86.92,Burhabalang,Subernarekha,Odisha,1992-03-07,2019-03-03,9858,Open,9858.0,0.0,27.008219178082193
+IWM-gauge-710,709,Tilga,22.3333,84.5042,Brahmani/Sankh, Brahmni - Baitarni,Odisha,1979-06-15,2019-01-31,14476,Open,14476.0,0.0,39.66027397260274
+IWM-gauge-739,738,Anandapur,21.2111,86.1206,Baitarni, Brahmni - Baitarni,Odisha,1972-03-07,2019-02-28,17124,Open,17160.0,0.209790209790206,47.013698630136986
+IWM-gauge-742,741,Gomlai,21.8378,84.9425,Brahmani, Brahmni - Baitarni,Odisha,1979-01-21,2019-01-31,14621,Open,14621.0,0.0,40.057534246575344
+IWM-gauge-755,754,Nowrangpur,19.1975,82.5119,Godavari/ Indravati,Godavari,Odisha,1965-12-01,2019-02-28,18674,Open,19448.0,3.9798436857260366,53.28219178082192
+IWM-gauge-756,755,Salebhata,20.9833,83.5394,Mahanadi/Ong,Mahanadi,Odisha,1971-12-01,2019-03-07,16648,Open,17264.0,3.568118628359596,47.298630136986304
+IWM-gauge-759,758,Jenapur,20.8897,86.0142,Brahmani, Brahmni - Baitarni,Odisha,1990-01-01,2019-01-31,10623,Open,10623.0,0.0,29.104109589041094
+IWM-gauge-767,766,Sundergarh,22.1153,84.0111,Mahanadi/Ib,Mahanadi,Odisha,1977-12-31,2019-03-07,14976,Open,15042.0,0.4387714399680886,41.21095890410959
+IWM-gauge-770,769,Kesinga,20.2039,83.2231,Mahanadi/Tel,Mahanadi,Odisha,1978-11-01,2019-02-07,14530,Open,14709.0,1.2169420082942417,40.298630136986304
+IWM-gauge-781,780,Baranwada,26.0,76.6667,Ganga/Yamuna/ Chambal/Banas,Ganga - Brahmaputra - Meghna/Barak,Rajasthan,1960-01-01,2011-05-31,18748,Restricted,18779.0,0.1650780126737361,51.44931506849315
+IWM-gauge-785,784,Tonk.,26.2061,75.7764,Ganga/Yamuna/ Chambal/Banas,Ganga - Brahmaputra - Meghna/Barak,Rajasthan,1970-11-01,2011-05-31,14791,Restricted,14822.0,0.2091485629469702,40.608219178082194
+IWM-gauge-787,786,Bigod,25.2506,75.035,Ganga/Yamuna/ Chambal/Banas,Ganga - Brahmaputra - Meghna/Barak,Rajasthan,1976-11-01,2011-05-31,12537,Restricted,12630.0,0.7363420427553447,34.602739726027394
+IWM-gauge-789,788,Manderial,26.2725,77.2753,Ganga/Yamuna/ Chambal,Ganga - Brahmaputra - Meghna/Barak,Rajasthan,1982-12-01,2011-05-31,10409,Restricted,10409.0,0.0,28.517808219178082
+IWM-gauge-790,789,Mandawara,25.3853,76.1519,Ganga/Yamuna/ Chambal,Ganga - Brahmaputra - Meghna/Barak,Rajasthan,1981-06-02,2011-05-31,10956,Restricted,10956.0,0.0,30.016438356164382
+IWM-gauge-815,814,Barod,25.3833,76.3339,Ganga/Yamuna/ Chambal/ Kalisindh,Ganga - Brahmaputra - Meghna/Barak,Rajasthan,1970-11-01,2011-05-31,14821,Restricted,14822.0,0.0067467278370036,40.608219178082194
+IWM-gauge-817,816,aklera.,24.4297,76.6039,Ganga/Yamuna/ Chambal/ Kalisindh/Parwan,Ganga - Brahmaputra - Meghna/Barak,Rajasthan,1975-06-01,2011-05-31,13056,Restricted,13149.0,0.7072781200091249,36.02465753424657
+IWM-gauge-830,829,Kodumudi,11.0811,77.8903,Cauvery,Cauvery,Tamil Nadu,1971-06-21,2019-03-09,17218,Open,17429.0,1.2106259682138965,47.75068493150685
+IWM-gauge-836,835,Murappanadu,8.7144,77.835,Tambraparni,East flowing rivers between Pennar Kanyakumari,Tamil Nadu,1977-11-23,2019-03-16,14827,Open,15089.0,1.736364238849497,41.33972602739726
+IWM-gauge-837,836,Ambarampalayam,10.6303,76.9461,Bharathapuzha,West flowing rivers form Tadri to Kanyakumari,Tamil Nadu,1978-06-01,2019-03-09,14807,Open,14892.0,0.5707762557077611,40.8
+IWM-gauge-842,841,Villupuram,11.8706,79.4594,Ponnaiyar,East flowing rivers between Pennar and Kanyakumari,Tamil Nadu,1972-10-09,2017-12-30,15998,Open,16519.0,3.153943943337978,45.25753424657534
+IWM-gauge-849,848,Magaral,12.7083,79.75,Palar/Cheyyar,East flowing rivers between Pennar and Kanyakumari,Tamil Nadu,1971-11-25,2017-12-16,16283,Open,16824.0,3.215644317641464,46.09315068493151
+IWM-gauge-858,857,Theni,10.0011,77.485,Vaigai/Suruliar,East flowing rivers between Pennar Kanyakumari,Tamil Nadu,1978-06-01,2019-03-26,14703,Open,14909.0,1.381715742169165,40.846575342465755
+IWM-gauge-861,860,Paramakudi,9.5531,78.5861,Vaigai,East flowing rivers between Pennar Kanyakumari,Tamil Nadu,1971-11-03,2018-11-24,16659,Open,17189.0,3.0833672697655468,47.09315068493151
+IWM-gauge-873,872,Savandapur,11.5217,77.51,Cauvery/Bhavani,Cauvery,Tamil Nadu,1978-06-01,2019-02-28,14805,Open,14883.0,0.524087885506952,40.775342465753425
+IWM-gauge-879,878,Avarankuppam,12.6842,78.5394,Palar,East flowing rivers between Pennar Kanyakumari,Tamil Nadu,1978-06-07,2018-02-03,14054,Open,14487.0,2.9888865879754256,39.69041095890411
+IWM-gauge-884,883,Urachikottai,11.4778,77.7,Cauvery,Cauvery,Tamil Nadu,1979-06-01,2019-01-23,14000,Open,14482.0,3.328269576025411,39.676712328767124
+IWM-gauge-885,884,Irrukkankudi,9.3239,77.9903,Vaippar,East flowing rivers between Pennar Kanyakumari,Tamil Nadu,1989-11-25,2017-06-07,10023,Open,10057.0,0.3380729839912444,27.553424657534247
+IWM-gauge-896,895,Thengumarahada,11.5728,76.9192,Cauvery/Bhavani/,Cauvery,Tamil Nadu,1979-06-01,2019-02-28,14439,Open,14518.0,0.5441520870643313,39.775342465753425
+IWM-gauge-898,897,Gummanur,12.555,78.1386,Ponnaiyar,East flowing rivers between Pennar Kanyakumari,Tamil Nadu,1978-09-01,2019-11-21,14700,Open,15057.0,2.3709902370990243,41.25205479452055
+IWM-gauge-907,906,Madhira,16.9181,80.3558,Krishna/Munneru/ Wyra,Krishna,Telangana,1984-06-01,2019-03-20,12643,Open,12711.0,0.5349697112737029,34.824657534246576
+IWM-gauge-915,914,Mancherial,18.8358,79.4447,Godavari,Godavari,Telangana,1966-06-01,2019-02-28,18861,Open,19266.0,2.1021488632824714,52.78356164383562
+IWM-gauge-919,918,Halia,16.79,79.3387,Krishna/Halia,Krishna,Telangana,1984-07-01,2019-03-20,12633,Open,12681.0,0.3785190442394115,34.74246575342466
+IWM-gauge-923,922,Perur,18.5872,80.3958,Godavari,Godavari,Telangana,1965-12-01,2019-02-01,19186,Open,19421.0,1.210030379486127,53.20821917808219
+IWM-gauge-926,925,Jewangi,17.2544,77.4628,Krishna/Bhima/ Kagna,Krishna,Telangana,1978-11-24,2006-06-07,10058,Open,10058.0,0.0,27.556164383561644
+IWM-gauge-932,931,Dameracherla,16.7392,79.6697,Krishna/Musi,Krishna,Telangana,1968-06-01,2019-03-20,18478,Open,18555.0,0.4149824845055216,50.83561643835616
+IWM-gauge-941,940,Bhatpalli,19.3303,79.5042,Godavari/Pranhita/ Peddavagu,Godavari,Telangana,1986-10-01,2019-03-17,11761,Open,11856.0,0.8012820512820484,32.48219178082192
+IWM-gauge-945,944,gangan,28.82,78.72,,Ganga,Uttar Pradesh,1970-05-20,2006-06-30,12990,Restricted,13191.0,1.5237662042301592,36.13972602739726
+IWM-gauge-947,946,raebarely,26.1986,81.2511,Ganga/Gomti/Sai,Ganga - Brahmaputra - Meghna,Uttar Pradesh,1980-11-01,2011-12-31,11220,Restricted,11383.0,1.4319599402617955,31.186301369863013
+IWM-gauge-948,947,ankinghat,26.9347,80.0361,Ganga,Ganga - Brahmaputra - Meghna,Uttar Pradesh,1968-05-14,2011-12-31,15937,Restricted,15937.0,0.0,43.66301369863014
+IWM-gauge-951,950,bhitaura,26.0431,80.8542,Ganga,Ganga - Brahmaputra - Meghna,Uttar Pradesh,1971-02-21,2011-12-31,14894,Restricted,14924.0,0.2010184937014214,40.88767123287671
+IWM-gauge-953,952,kachlabridge,27.9319,78.8606,Ganga,Ganga - Brahmaputra - Meghna,Uttar Pradesh,1971-12-10,2011-12-31,14477,Restricted,14632.0,1.0593220338983025,40.087671232876716
+IWM-gauge-955,954,moradabad,28.8267,78.7981,Ganga/Ramganga,Ganga - Brahmaputra - Meghna,Uttar Pradesh,1968-05-22,2011-12-31,15844,Restricted,15929.0,0.5336179295624355,43.64109589041096
+IWM-gauge-957,956,kanpur,26.4694,80.3764,Ganga,Ganga - Brahmaputra - Meghna,Uttar Pradesh,1959-05-01,2011-12-31,19207,Restricted,19238.0,0.1611394115812459,52.706849315068496
+IWM-gauge-960,959,fatehgarh,27.4042,79.625,Ganga,Ganga - Brahmaputra - Meghna,Uttar Pradesh,1971-11-14,2011-12-31,14658,Restricted,14658.0,0.0,40.15890410958904
+IWM-gauge-964,963,garhmukteshwar,28.7667,78.1417,Ganga,Ganga - Brahmaputra - Meghna,Uttar Pradesh,1967-04-01,2011-12-30,16345,Restricted,16345.0,0.0,44.78082191780822
+IWM-gauge-966,965,Banda,25.4833,80.3133,Ganga/Yamuna/Ken,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1959-06-01,2011-05-31,18991,Restricted,18993.0,0.0105301953351233,52.035616438356165
+IWM-gauge-967,966,Mohna,25.8071,79.4085,Ganga/Yamuna /Betwa,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1984-03-21,2011-05-31,9841,Restricted,9933.0,0.9262055773683664,27.213698630136985
+IWM-gauge-968,967,Auraiya,26.4272,79.4181,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1976-02-21,2011-05-31,12883,Restricted,12884.0,0.0077615647314455,35.298630136986304
+IWM-gauge-969,968,agra poiyaghat,27.27,78.03,Yamuna,Ganga,Uttar Pradesh,1976-01-06,2011-05-31,12783,Restricted,12930.0,1.1368909512761038,35.42465753424658
+IWM-gauge-970,969,Hamirpur,25.9796,80.1289,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1959-06-01,2011-05-31,18993,Restricted,18993.0,0.0,52.035616438356165
+IWM-gauge-972,971,galeta,29.0756,77.4625,Ganga/Yamuna/ Hindon,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1971-06-01,2012-01-31,14854,Restricted,14855.0,0.0067317401548305,40.6986301369863
+IWM-gauge-973,972,kalanaur,30.0694,77.3644,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1975-10-28,2012-02-29,13258,Restricted,13274.0,0.120536386921799,36.367123287671234
+IWM-gauge-974,973,mathura,27.5,77.72,,Ganga,Uttar Pradesh,1974-06-01,2006-05-31,11687,Restricted,11688.0,0.0085557837097849,32.02191780821918
+IWM-gauge-976,975,mawi,29.3847,77.1556,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1975-06-01,2012-02-29,13325,Restricted,13423.0,0.7300901437830576,36.775342465753425
+IWM-gauge-977,976,Etawah,26.75,78.9833,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1960-01-01,2011-05-31,18778,Restricted,18779.0,0.0053250971830287,51.44931506849315
+IWM-gauge-979,978,Kalpi,26.2,79.7,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1982-01-01,2011-05-31,10743,Restricted,10743.0,0.0,29.432876712328767
+IWM-gauge-980,979,Kora,26.1328,80.4542,"Ganga/Yamuna
+/Rind",Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1970-07-18,2011-05-31,14928,Restricted,14928.0,0.0,40.8986301369863
+IWM-gauge-981,980,shahijina,25.95,80.1478,"Ganga/Yamuna
+/Betwa",Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1959-06-01,2011-05-31,18980,Restricted,18993.0,0.0684462696783017,52.035616438356165
+IWM-gauge-982,981,Rajapur,25.3897,81.1542,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1976-12-30,2011-05-31,12571,Restricted,12571.0,0.0,34.441095890410956
+IWM-gauge-983,982,pratappur,25.3556,81.6667,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1959-07-01,2011-05-31,18961,Restricted,18963.0,0.0105468544006726,51.95342465753425
+IWM-gauge-984,983,Lalpur,26.2714,79.95,"Ganga/Yamuna
+/Sengar",Ganga - Brahmaputra - Meghna/Barak,Uttar Pradesh,1970-07-13,2011-05-31,14930,Restricted,14933.0,0.0200897341458561,40.912328767123284
+IWM-gauge-986,985,marora,29.9369,78.7033,Ganga/Nayar,Ganga - Brahmaputra - Meghna,Uttarakhand,1971-11-22,2011-12-31,14649,Restricted,14650.0,0.0068259385665569,40.136986301369866
+IWM-gauge-988,987,naugaon,30.7917,78.1353,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttarakhand,1981-11-19,2012-02-29,10907,Restricted,11060.0,1.3833634719710663,30.301369863013697
+IWM-gauge-989,988,rudraprayag A-5,30.2875,78.9844,Ganga/Alaknanda,Ganga - Brahmaputra - Meghna,Uttarakhand,1971-02-09,2011-12-31,14911,Restricted,14936.0,0.1673808248527031,40.92054794520548
+IWM-gauge-990,989,bausan,30.5156,77.9283,Ganga/Yamuna,Ganga - Brahmaputra - Meghna/Barak,Uttarakhand,1985-07-21,2012-01-31,9544,Restricted,9691.0,1.516871323908786,26.55068493150685
+IWM-gauge-992,991,tuini tons,30.9397,77.8466,Ganga/Yamuna/ Tons,Ganga - Brahmaputra - Meghna/Barak,Uttarakhand,1976-06-01,2012-02-29,13056,Restricted,13057.0,0.0076587271195527,35.772602739726025
+IWM-gauge-993,992,tuini pabar,30.9603,77.8536,Ganga/Yamuna/ Pabar,Ganga - Brahmaputra - Meghna/Barak,Uttarakhand,1976-06-01,2012-02-29,13053,Restricted,13057.0,0.0306349084782109,35.772602739726025
+IWM-gauge-995,994,haripur,30.5261,77.8522,Ganga/Yamuna/Tons,Ganga - Brahmaputra -Meghna/Barak,Uttarakhand,1987-01-24,2012-02-29,9167,Restricted,9168.0,0.0109075043630002,25.117808219178084
+IWM-gauge-996,995,rudraprayag BC,30.2897,78.9803,Ganga/Alaknanda/ Mandakini,Ganga - Brahmaputra - Meghna,Uttarakhand,1971-06-01,2011-12-31,14824,Restricted,14824.0,0.0,40.61369863013699
+IWM-gauge-997,996,rishikesh,30.1008,78.3039,Ganga,Ganga - Brahmaputra - Meghna,Uttarakhand,1970-12-05,2011-12-31,15002,Restricted,15002.0,0.0,41.1013698630137
+IWM-gauge-999,998,uttarkashi,30.7283,78.4461,Ganga/Bhagirath,Ganga - Brahmaputra - Meghna,Uttarakhand,1971-07-15,2011-12-31,14678,Restricted,14780.0,0.6901217861975617,40.49315068493151
+IWM-gauge-1000,999,Zero point_tehri,30.36,78.48,,Ganga,Uttarakhand,1970-12-03,2011-05-31,14773,Restricted,14790.0,0.1149425287356287,40.52054794520548
+IWM-gauge-1001,1000,chandrapuri,30.4308,79.0692,Ganga/Mandakini/ Alaknanda,Ganga - Brahmaputra - Meghna,Uttarakhand,1976-06-01,2006-03-31,10768,Restricted,10896.0,1.1747430249632873,29.852054794520548
+IWM-gauge-1004,1003,karanprayag,30.2556,79.2211,Ganga/Alaknanda/ Pinder,Ganga - Brahmaputra - Meghna,Uttarakhand,1977-01-01,2011-12-31,12775,Restricted,12783.0,0.0625831182038627,35.02191780821918
+IWM-gauge-1006,1005,joshimath,30.5669,79.5525,Ganga/Alaknanda,Ganga - Brahmaputra - Meghna,Uttarakhand,1971-05-03,2011-12-31,14806,Restricted,14853.0,0.3164343903588551,40.69315068493151
+IWM-gauge-1078,1077,patna (LGD) kalna ebb,23.2247,88.3742,Bhagirathi,Ganga - Brahmaputra -Meghna/Barak,West Bengal,1956-06-12,2006-12-31,18115,Restricted,18465.0,1.8954779312212344,50.58904109589041
+IWM-gauge-1103,1102,Hasimara,26.7292,89.3236,Brahmaputra/ Torsa,Ganga - Brahmaputra -Meghna/Barak,West Bengal,1990-01-06,2021-05-31,11296,Restricted,11469.0,1.5084139855262024,31.421917808219177
